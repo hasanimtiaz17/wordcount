@@ -12,7 +12,7 @@ There has been several iteration of the base wordcount.py program. Here are the 
   
 **Map Reduce Implementation** In this part a mapper and reducer was created. In the implementations before this, it was assumed that the program will be stored in system memory. Using a map reduce framework allows the program to be run on a hadoop or Spark environment.
 
-*Output and Documentation** Please refer to the several output files for each run. Output includes the output run from each wordcount version as well as the map reduce version.
+**Output and Documentation** Please refer to the several output files for each run. Output includes the output run from each wordcount version as well as the map reduce version.
 
 ## Phase 2
 
