@@ -16,12 +16,15 @@ There has been several iteration of the base wordcount.py program. Here are the 
 
 ## Phase 2
 
-**IN PROGRESS**
- <br />wordcount_5.py: This part is in progress. It will take input text file and prefix and report the text containing that prefix and their counts in new lines. It is using pandas dataframe.
+**wordcount_5.py:** For this implementation, user is asked two prompts 1) Define Prefix, 2) Enter text URL. The program then collects the text, processes it and stores it in a pandas dataframe. If any of the words starts with the Prefix defined, then the words and count is printed on the screen,seperated by a comma
 
-
-Provide code examples and explanations of how to get the project.
 
 ## Phase 3
 
-**IN PROGRESS**
+This is the last part of the challenge. To deploy the program on a webserver, flask and heroku was used. AWS was also implemented but heroku proved to be a cost-effective implementation. The server was also connected with HTML and Javascript in the front-end. The link to the program is https://wordcount-challenge.herokuapp.com 
+
+
+
+## Contact
+
+For any questions, contact me at hasanimtiaz17@gmail.com or call me at 713-412-9382
